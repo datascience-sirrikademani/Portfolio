@@ -37,6 +37,8 @@ ol, ul {
 	list-style: none;
 }
 
+
+
 blockquote, q {
 	quotes: none;
 }
@@ -234,6 +236,9 @@ input, select, textarea {
 
 	.align-right {
 		text-align: right;
+	}
+	.center-heading {
+	  text-align: center;
 	}
 
 /* Row */
